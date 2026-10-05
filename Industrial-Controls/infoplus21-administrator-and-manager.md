@@ -1,5 +1,7 @@
 # Aspen InfoPlus.21: Administrator and Manager
 
+[← Back to index](README.md)
+
 *A brief learning guide to how the system is organized and what runs it.*
 
 ---

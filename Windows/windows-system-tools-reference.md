@@ -1,5 +1,7 @@
 # Windows System Tools & Command-Line Reference
 
+[← Back to index](README.md)
+
 > **How to use this file:** Press `Ctrl + F` and search for what you want to do: "wifi password", "port", "repair", "startup", "battery", "services", "hash", "uninstall", and so on. Every entry describes the task in plain words so searches hit.
 >
 > Written for **Windows 11** (most of it also works on Windows 10). Items marked **(Pro)** are only in Pro/Enterprise/Education editions. Items marked **⚠** can destroy data or break the system if misused. Read them twice before running.

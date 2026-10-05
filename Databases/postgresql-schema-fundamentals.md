@@ -1,5 +1,7 @@
 # PostgreSQL Schema Fundamentals
 
+[← Back to index](README.md)
+
 Core mechanics for creating and editing **tables**, **columns**, and **relationships** using `psql`. Examples assume you're connected like:
 
 ```

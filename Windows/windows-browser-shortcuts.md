@@ -1,5 +1,7 @@
 # Windows & Browser Keyboard Shortcuts — The Complete Cheat Sheet
 
+[← Back to index](README.md)
+
 > **How to use this file:** Press `Ctrl + F` and search for what you want to do (e.g. "bookmark", "reopen", "snip", "zoom", "rename"). Every row lists the action in plain words so searches hit.
 >
 > **Browsers covered:** Chrome, Edge, Firefox on Windows. Where a column is blank or says "same", the shortcut matches the Chrome column. Brave, Vivaldi, Opera and Arc use Chrome's engine, so the Chrome column works for them too.

@@ -1,5 +1,7 @@
 # My Notes System — Setup, Run & Deploy Guide
 
+[← Back to index](README.md)
+
 A personal documentation site. You write Markdown in VS Code, D2 diagrams render automatically, and the site runs locally with live reload. When you're ready, you build it and serve it permanently from a Windows Server with IIS.
 
 - **Stack:** Astro Starlight (the docs site framework), astro-d2 (diagrams), Node.js/npm (tooling), IIS (permanent hosting)

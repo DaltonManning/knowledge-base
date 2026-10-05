@@ -1,5 +1,7 @@
 # Why the Interfaces Doc Was Built That Way
 
+[← Back to index](README.md)
+
 ## Order of ideas
 Definition → simplest working example → *why it matters* → rules → edge cases → comparison → reference list. This mirrors how experts actually learn a construct: see it, use it, understand its purpose, then harden the mental model with rules and exceptions.
 

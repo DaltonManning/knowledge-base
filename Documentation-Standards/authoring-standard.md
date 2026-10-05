@@ -1,5 +1,7 @@
 # Engineering Technical Documentation Standard
 
+[← Back to index](README.md)
+
 This is the writing standard that sits behind the templates in this bundle. The goal is not to make documents look impressive; the goal is to make systems understandable, supportable, changeable, and verifiable.
 
 
@@ -16,9 +18,9 @@ System Definition
 
 Within that structure, use **Parts** for major engineering concerns, **Chapters** for stable technical subjects, **Sections** for one concern inside a chapter, and **Subsections** only when the section genuinely contains multiple independent concepts. Requirements, decisions, interfaces, risks, tests, and procedures are engineering objects with stable IDs; they are not additional heading levels.
 
-The complete rules are in `HIERARCHY_STANDARD.md`.
+The complete rules are in the [Hierarchy Standard](hierarchy-standard.md).
 
-## 3. Core principle
+## 2. Core principle
 
 A professional technical implementation document answers seven questions in this order:
 

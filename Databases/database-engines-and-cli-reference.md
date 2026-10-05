@@ -1,5 +1,7 @@
 # Relational Databases, SQL Dialects, and Command-Line Clients
 
+[← Back to index](README.md)
+
 **A technical reference covering Oracle, Microsoft SQL Server, PostgreSQL, and AspenTech InfoPlus.21**
 
 ---

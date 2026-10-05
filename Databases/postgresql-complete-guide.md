@@ -1,5 +1,7 @@
 # PostgreSQL Complete Reference Guide
 
+[← Back to index](README.md)
+
 > Database design, DDL, and JSON ingestion. Built for fast lookup.
 > Targets **PostgreSQL 18** (current stable). Everything here also works on 15–17.
 

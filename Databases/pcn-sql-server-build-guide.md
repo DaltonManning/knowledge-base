@@ -1,5 +1,7 @@
 # PCN SQL Server: build, permissions and file ingestion guide
 
+[← Back to index](README.md)
+
 Oct 2, 2026 · @Dalto
 
 ## At a glance

@@ -1,5 +1,7 @@
 # Project Prompt: Personal Knowledge & File Management Web App (Blazor / C#)
 
+[← Back to index](README.md)
+
 ## Overview
 
 Build a self-hosted personal knowledge management web application entirely in C# using Blazor Server (.NET 8 or later). This app is for a single primary user (me) with the possibility of admin-controlled access later. It will host a personal knowledge base ("book" content), a log book, a file browser, and a schedule, with an eye toward long-term deployment, diagnostics, and configurability.
